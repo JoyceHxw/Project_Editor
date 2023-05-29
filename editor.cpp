@@ -1176,6 +1176,7 @@ void editorProcessKeypress(){
     quit_times=KILO_QUIT_TIMES;
 }
 
+
 /*** init ***/
 void initEditor(){
     E.cx=0;
